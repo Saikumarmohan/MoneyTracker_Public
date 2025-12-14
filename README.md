@@ -47,7 +47,7 @@ A modern, intuitive expense tracking app built with React Native and Expo. Track
 ## 📥 Download
 
 ### Android
-- **APK Download**: [Latest Release](https://github.com/Saikumarmohan/MoneyTracker/releases)
+- **APK Download**: [Latest Release](https://github.com/Saikumarmohan/MoneyTracker_Public/releases/tag/Release)
 - **Minimum Android Version**: 6.0 (API level 23)
 - **File Size**: ~25 MB
 
@@ -119,7 +119,7 @@ A modern, intuitive expense tracking app built with React Native and Expo. Track
 ### Contact
 - **Developer**: Saikumar Mohan
 - **GitHub**: [@Saikumarmohan](https://github.com/Saikumarmohan)
-- **Issues**: [Report here](https://github.com/Saikumarmohan/MoneyTracker/issues)
+- **Issues**: [Report here](https://github.com/Saikumarmohan/MoneyTracker_Public/issues)
 
 ## 📄 License & Terms
 
